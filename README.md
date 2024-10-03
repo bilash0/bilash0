@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Bilash
+- 👀 I’m interested in Software engineering.
+- 🌱 I’m currently learning Web devolopment.
+- 💞️ I’m looking to collaborate on New devolopers.
+- 📫 How to reach me bilash.ripul@gmail.com
+- ⚡ Fun fact: Am i Introvert or Extrovert
